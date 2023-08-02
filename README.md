@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kuuukooo ✌
 - 👀 I’m interested in IT, Programming, Videogames, Anime and Manga.
-- 🌱 I’m currently learning PHP, HMTML and CSS.
+- 🌱 I’m currently learning PHP, HTML and CSS.
+- 🤓 I´m interested on learning Web Development, Web Design and I dream to become a fullstack Programmer. 
 - 💞️ I’m currently living on Luque, Paraguay.
 - 📫 How to reach me
 - @kuuuko on instagram, José Ramírez on Facebook and @kuuuko on Twitter!

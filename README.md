@@ -4,7 +4,7 @@
 - 🤓 I´m interested on learning Web Development, Web Design and I dream to become a fullstack Programmer. 
 - 💞️ I’m currently living on Luque, Paraguay.
 - 📫 How to reach me
-- @kuuuko on instagram, José Ramírez on Facebook and @kuuuko on Twitter!
+- @kuuko0 on instagram, José Ramírez on Facebook and @kuuuko on Twitter!
 
 <!---
 kuuukooo/kuuukooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
